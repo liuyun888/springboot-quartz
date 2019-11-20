@@ -6,7 +6,7 @@ SpringBoot +Quartz + Mybatis + LayUI<br/>
 
 ## SQL脚本
 本例中使用的是MySQL数据库。<br/>
-在resources\db目录下，需要创建gupao数据库，和sys_job表。<br/>
+在resources\db目录下，需要创建quartz数据库，和sys_job表。<br/>
 集群功能需要创建11张表：<br/>
 在官网的Downloads链接中，提供了11张表的建表语句：
 quartz-2.2.3-distribution\quartz-2.2.3\docs\dbTables
